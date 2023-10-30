@@ -26,9 +26,9 @@ O projeto é composto por diversas classes e interfaces, cada uma com suas respo
 
 O projeto está em constante evolução, e algumas melhorias futuras que podem ser consideradas incluem:
 
-Interface de Usuário Aprimorada: Melhorar a interface de usuário (PeixeGUI) com recursos como feedback visual para ações (por exemplo, confirmação de adição/remoção bem-sucedida), validação em tempo real dos campos de entrada e uma interface mais amigável.
+- Interface de Usuário Aprimorada: Melhorar a interface de usuário (PeixeGUI) com recursos como feedback visual para ações (por exemplo, confirmação de adição/remoção bem-sucedida), validação em tempo real dos campos de entrada e uma interface mais amigável.
 
-Recuperação de Dados aprimorada: Implementar um sistema de recuperação de dados mais robusto, permitindo a importação de dados a partir de diferentes fontes, como bancos de dados externos.
+- Recuperação de Dados aprimorada: Implementar um sistema de recuperação de dados mais robusto, permitindo a importação de dados a partir de diferentes fontes, como bancos de dados externos.
 
 Armazenamento de Dados: Utilizar um sistema de gerenciamento de banco de dados para armazenar os dados dos peixes em vez de usar arquivos de texto. Isso facilitaria a consulta e manutenção dos dados.
 
