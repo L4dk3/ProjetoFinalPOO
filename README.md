@@ -21,3 +21,14 @@ O projeto é composto por diversas classes e interfaces, cada uma com suas respo
 - `SalvarDados` e `RecuperarDados`: Classes para salvar e recuperar dados em arquivos.
 - `PeixeGUI`: Interface gráfica para interagir com o sistema.
 - `TestePeixes`: Classe de teste para verificar as operações do gerenciador.
+
+- ## Melhorias Futuras
+
+O projeto está em constante evolução, e algumas melhorias futuras que podem ser consideradas incluem:
+
+- Validação de dados de entrada.
+- Interface de usuário aprimorada.
+- Armazenamento de dados em um banco de dados.
+- Capacidade de edição de informações.
+- Pesquisa avançada.
+- Autenticação e controle de acesso.
