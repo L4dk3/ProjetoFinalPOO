@@ -30,13 +30,13 @@ O projeto está em constante evolução, e algumas melhorias futuras que podem s
 
 - Recuperação de Dados aprimorada: Implementar um sistema de recuperação de dados mais robusto, permitindo a importação de dados a partir de diferentes fontes, como bancos de dados externos.
 
-Armazenamento de Dados: Utilizar um sistema de gerenciamento de banco de dados para armazenar os dados dos peixes em vez de usar arquivos de texto. Isso facilitaria a consulta e manutenção dos dados.
+- Armazenamento de Dados: Utilizar um sistema de gerenciamento de banco de dados para armazenar os dados dos peixes em vez de usar arquivos de texto. Isso facilitaria a consulta e manutenção dos dados.
 
-Capacidade de Edição: Adicionar a capacidade de editar informações de peixes existentes, além de apenas adicionar e remover. Isso seria útil para atualizar informações quando necessário.
+- Capacidade de Edição: Adicionar a capacidade de editar informações de peixes existentes, além de apenas adicionar e remover. Isso seria útil para atualizar informações quando necessário.
 
-Pesquisa Avançada: Implementar uma pesquisa avançada que permita aos usuários pesquisar peixes com base em critérios específicos, como tipo de peixe, nome científico, etc.
+- Pesquisa Avançada: Implementar uma pesquisa avançada que permita aos usuários pesquisar peixes com base em critérios específicos, como tipo de peixe, nome científico, etc.
 
-Documentação: Criar documentação abrangente para o projeto, incluindo documentação do código-fonte e manuais de usuário, para facilitar o uso e manutenção do sistema.
+- Documentação: Criar documentação abrangente para o projeto, incluindo documentação do código-fonte e manuais de usuário, para facilitar o uso e manutenção do sistema.
 
-Testes Unitários: Expandir os testes unitários para cobrir mais cenários, garantindo uma cobertura mais abrangente do código.
+- Testes Unitários: Expandir os testes unitários para cobrir mais cenários, garantindo uma cobertura mais abrangente do código.
 
