@@ -1,0 +1,4 @@
+Tubarão Branco,Carcharodon Carcharias
+Tubarão Tigre,Galeocerdo cuvier
+Raia Pintada,Aetobatus narinari
+Peixe Rato,Chimaera monstrosa
