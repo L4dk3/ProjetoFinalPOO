@@ -20,7 +20,7 @@ O projeto é composto por diversas classes e interfaces, cada uma com suas respo
 - `TipoPeixeCartilaginoso`: Enumeração para tipos de peixes cartilaginosos.
 - `SalvarDados` e `RecuperarDados`: Classes para salvar e recuperar dados em arquivos.
 - `PeixeGUI`: Interface gráfica para interagir com o sistema.
-- `TestePeixes`: Classe de teste para verificar as operações do gerenciador.
+- `GeranciadorPeixesTest`: Classe de teste para verificar as operações do gerenciador.
 
 - ## Melhorias Futuras
 
